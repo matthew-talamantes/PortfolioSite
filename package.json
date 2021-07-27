@@ -18,5 +18,8 @@
   "homepage": "https://github.com/matthew-talamantes/PortfolioSite#readme",
   "devDependencies": {
     "sass": "^1.36.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2"
   }
 }
