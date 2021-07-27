@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matthew-talamantes/PortfolioSite/issues"
   },
-  "homepage": "https://github.com/matthew-talamantes/PortfolioSite#readme"
+  "homepage": "https://github.com/matthew-talamantes/PortfolioSite#readme",
+  "devDependencies": {
+    "sass": "^1.36.0"
+  }
 }
